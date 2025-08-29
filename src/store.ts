@@ -1,9 +1,6 @@
 import { configureStore } from '@reduxjs/toolkit';
-import markersReducer from './slices/markersSlice';
 export const store = configureStore({
-  reducer: {
-    markers: markersReducer,
-  },
+  reducer: {},
 });
 
 export type RootState = ReturnType<typeof store.getState>;
