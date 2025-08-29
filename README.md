@@ -1,7 +1,6 @@
-# Lost And Found
-Have you ever lost something? of course you did, we all do!
-This website will let you post what you lost and where and leave a phone number, in hopes someone will find it and contact you. 
-On the other hand, if you found something, you can say you found something and leave a phone number. 
+# PathWays!
 
+You've called a place and gotten hit with the longest, worst call forwarding menu in your life!!
 
-# [active site](https://itais-lost-and-found.netlify.app/)
+Well no longer!
+with Pathways, you can check exactly which numbers you need to press to get to where YOU want to go!
